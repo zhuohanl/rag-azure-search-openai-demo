@@ -346,7 +346,7 @@ prompty==0.1.45
     # via -r requirements.in
 propcache==0.2.0
     # via yarl
-psutil==5.9.8
+psutil==7.0.0
     # via azure-monitor-opentelemetry-exporter
 pycparser==2.22
     # via cffi
